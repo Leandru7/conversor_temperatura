@@ -38,3 +38,5 @@ conversor_temperatura/
 ## 🚀 Contribuição
 
 Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests!
+
+---
