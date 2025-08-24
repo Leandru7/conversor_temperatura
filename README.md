@@ -30,11 +30,6 @@ conversor_temperatura/
 ├── style.css # Estilos visuais
 └── script.js # Lógica de conversão
 
-
-## 📸 Preview
-
-> ![Preview do conversor](https://via.placeholder.com/600x300?text=Preview+do+Conversor+de+Temperatura)
-
 ## 🚀 Contribuição
 
 Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests!
